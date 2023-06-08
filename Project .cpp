@@ -13,8 +13,8 @@ using namespace std;
 /*
 Raghad Alqahtani 2210003591
 Bayan Alshehri   2210003574
-Latifa Alshehri
-Fatimah Aleid
+Latifa Alshehri  2210003580
+Fatimah Aleid    2210003529
 */
 
 void w()
